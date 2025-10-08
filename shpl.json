@@ -1,0 +1,16 @@
+{
+  "result": {
+    "scripts": [
+      {
+        "name": "Test Script 1",
+        "url": "https://raw.githubusercontent.com/YourUser/YourRepo/main/TestScript1.lua",
+        "thumbnail": "rbxassetid://6023426911"
+      },
+      {
+        "name": "Test Script 2",
+        "url": "https://raw.githubusercontent.com/YourUser/YourRepo/main/TestScript2.lua",
+        "thumbnail": "rbxassetid://6023426911"
+      }
+    ]
+  }
+}
